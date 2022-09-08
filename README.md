@@ -35,7 +35,7 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 
 </hr>
 
-
+## Table
 
 |City|Loaction|Duration|
 |----|--------|--------|
@@ -43,3 +43,14 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 |Banglore|Electronic city|2 hours|
 |Chennai|Marina Beach|1 hour|
 |Hyderabad|Charminar|1 hour|
+
+<hr>
+</hr>
+
+## Pitty Quotes
+
+ Fantasy is hardly escape from reality.its way of understanding it *loyd alexandar* 
+ Stay Faithful to the stories in your head *paul hakeins*
+
+
+ 
