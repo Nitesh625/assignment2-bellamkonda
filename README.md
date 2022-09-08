@@ -30,3 +30,16 @@ The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern 
 
 
 [this is my info](https://github.com/Nitesh625/assignment2-bellamkonda/blob/649d126cd256a32aa96f5e0eb6ed755cb4b5f37f/AboutMe.md)
+
+<hr>
+
+</hr>
+
+
+
+|City|Loaction|Duration|
+|----|--------|--------|
+|vizag|aruku vally|3 hours|
+|Banglore|Electronic city|2 hours|
+|Chennai|Marina Beach|1 hour|
+|Hyderabad|Charminar|1 hour|
